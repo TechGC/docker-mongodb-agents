@@ -17,7 +17,7 @@ appStart () {
 
 appHelp () {
   echo "Available options:"
-  echo " app:start          - Starts the gitlab server (default)"
+  echo " app:start          - Starts the agents (default)"
   echo " [command]          - Execute the specified linux command eg. bash."
 }
 
